@@ -1,0 +1,4 @@
+*.xml
+*.gpx
+__pycache__/
+.DS_Store
